@@ -12,7 +12,7 @@ st.markdown("### Ensuring 100% Human-Written, Plagiarism-Free Academic Submissio
 
 # API Key
 try:
-    api_key = st.secrets["GOOGLE_API_KEY"]
+    api_key = st.secrets["AIzaSyC6H2cr2qWpAzLihjdrhOMYCJHy7HTpcVk"]
 except:
     api_key = None
 
