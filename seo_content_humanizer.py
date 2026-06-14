@@ -11,7 +11,7 @@ st.markdown("### Professional Content Transformation for SEO")
 
 # Streamlit Secrets سے API Key حاصل کریں (کلائنٹ کو Key نہیں ڈالنی پڑے گی)
 try:
-    api_key = st.secrets["GOOGLE_API_KEY"]
+    api_key = st.secrets["AIzaSyC6H2cr2qWpAzLihjdrhOMYCJHy7HTpcVk"]
 except:
     api_key = None
 
